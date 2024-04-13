@@ -23,3 +23,7 @@ This is a simple Java program that calculates the love percentage between two pe
 - The `main()` method takes user input for the names and calls the `getLovePercentage()` method to calculate the love percentage.
 - The program then prints the result to the console.
 
+  ## Author
+
+- Mahmoud Najmeh
+
